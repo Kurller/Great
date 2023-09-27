@@ -86,7 +86,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'greatcart.wsgi.application'
+WSGI_APPLICATION = 'Great/greatcart.wsgi.application'
 
 AUTH_USER_MODEL = "accounts.Account"
 
